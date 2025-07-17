@@ -7,10 +7,6 @@ This driver was developed by me, Bruno Bavaresco Zaffari, as part of my undergra
 
 The DS18B20 is a digital temperature sensor using the OneWire protocol. It provides 9–12 bit temperature readings with a simple two-wire interface (data + ground) and supports multiple devices on the same bus via unique 64-bit addresses.
 
-## Documentation
-
-For detailed electrical characteristics, communication protocols, and performance specifications, refer to the official  [DS18B20 Datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf)
-
 **Key characteristics:**
 
 * Digital output, no need for analog pins.
@@ -18,6 +14,10 @@ For detailed electrical characteristics, communication protocols, and performanc
 * Resolution configurable (9 to 12 bits).
 * Built-in scratchpad memory.
 * CRC-8 error checking.
+  
+## Documentation
+
+For detailed electrical characteristics, communication protocols, and performance specifications, refer to the official  [DS18B20 Datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Temp/DS18B20.pdf)
 
 ## What does this driver do?
 
