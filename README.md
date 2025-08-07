@@ -1,4 +1,4 @@
-# DS18B20 Driver (ESP-IDF, C) - Command Communication Explained
+# DS18B20 Driver (ESP-IDF, C)  Explained
 **This code is shared publicly with no copyrights; anyone is free to use, modify, or redistribute it.**
 
 This driver was developed by me, Bruno Bavaresco Zaffari, as part of my undergraduate final thesis project in Computer Engineering. It is one of the modules included in the TCC directory of the main repository, serving as a key component for managing low-level hardware communication in the final system. Everyone is free to use, modify, and adapt this code as they wish, with no need for copyrights.
